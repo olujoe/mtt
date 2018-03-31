@@ -1,0 +1,1 @@
+default: --format html --out results/result_<%= Time.now.strftime("%d_%m_%Y_%H%M") %>.html --format pretty

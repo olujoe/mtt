@@ -1,0 +1,23 @@
+default_browser: chrome
+home_page: http://automationpractice.com/index.php
+google_title_bar: My Store
+wait: 10
+email: weswap1@mailinator.com
+password: password
+authentication_page: authentication
+my_account_page: My account
+my_account_page_url: my-account
+shopping_cart_page_title: Shopping-cart summary
+shopping_cart_page_url: order
+create_account_title: Create an account
+login_heading: Already registered?
+addresses_page_url: step=1
+addresses_page_title: Addresses
+shipping_page_url: controller=order
+shipping_page_title: Shipping
+payment_page_url: multi-shipping=
+payment_page_title: Please choose your payment method
+order_summary_page_url: module=bankwire
+order_summary_page_title: Order summary
+order_confirmation_page_url: order-confirmation
+order_confirmation_page_title: Order confirmation
